@@ -10,9 +10,11 @@
     "export": "next build && next export"
   },
   "dependencies": {
+    "axios": "1.16.1",
     "react": "latest",
     "react-dom": "latest",
-    "next": "latest"
+    "next": "latest",
+    "socket.io-client": "4.8.3"
   },
   "devDependencies": {
     "autoprefixer": "latest",
